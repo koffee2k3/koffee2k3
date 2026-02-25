@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C++, and going to learn Python for AI.
 - 💞️ I’m looking to collaborate on ... actually, I'm freshman and I haven't got any idea yet. But I'm gonna design games in the future.
 - 📫 How to reach me:
-- facebook.com/quyhoang2k3
-- quyhoang2kj@gmail.com
+- facebook.com/quyhoang.ouseki
+- kyuu2.work@gmail.com
 
 <!---
 koffee2k3/koffee2k3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
