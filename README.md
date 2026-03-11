@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @koffee2
-- 👀 I’m interested in anime, manga, games, etc... And of course, COFFEE!!
-- 🌱 I’m currently learning C++, and going to learn Python for AI.
-- 💞️ I’m looking to collaborate on ... actually, I'm freshman and I haven't got any idea yet. But I'm gonna design games in the future.
+- 👋 Hi, I’m just @koffee2
 - 📫 How to reach me:
 - facebook.com/quyhoang.ouseki
 - kyuu2.work@gmail.com
